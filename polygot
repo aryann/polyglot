@@ -1,0 +1,5 @@
+""""echo 'I am a Shell script!!' && cat <<pass > /dev/null
+"""
+
+print 'I am a Python program!'
+pass
