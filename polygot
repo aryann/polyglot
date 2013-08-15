@@ -1,5 +1,14 @@
+#if x
+
 """"echo 'I am a Shell script!!' && cat <<pass > /dev/null
 """
 
 print 'I am a Python program!'
 pass
+
+#endif
+
+#include <stdio.h>
+
+#define exit int main(void) { printf("I am a C program!\n"); return 0; }
+exit
